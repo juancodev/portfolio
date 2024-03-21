@@ -1,79 +1,47 @@
-![thumbnail](https://user-images.githubusercontent.com/16558205/180779213-ea740975-3df1-460a-a964-0a623ee25872.png)
+# 👨🏼‍💻 Juan Montilla - Desarrollador Full-Stack
 
-### Live - https://react-portfolio-template.netlify.app/
+## Sobre Mí
 
-### Demo Video - https://www.youtube.com/watch?v=62_HLbx2zLQ&t=9s
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### Tutorials
+Hola, soy Juan Montilla, un desarrollador full-stack con 3 años de experiencia. Mi dominio técnico abarca desde el desarrollo frontend hasta el backend, utilizando una variedad de tecnologías y frameworks que incluyen:
 
-Youtube - https://www.youtube.com/watch?v=8cmJ2kR4SpM
+- **Frontend**: JavaScript, TypeScript, React, CSS, HTML, Tailwind, Bootstrap y Next.js.
+- **Backend**: Node.js, Express, Python (FastAPI), y bases de datos como PostgreSQL, MySQL, MariaDB, MongoDB, Firebase y SQL Server.
 
-Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextjs-and-tailwindcss
+Además de mi experiencia técnica, valoro la importancia de mantener un equilibrio entre el trabajo y la vida personal. En mis tiempos libres, disfruto de la lectura, el viaje, la fotografía y el tiempo de calidad con mi familia.
 
-### Features - 
+Estoy constantemente buscando oportunidades para aprender y crecer, y estoy particularmente interesado en roles como Frontend Developer, Backend Developer o Full-Stack Developer que me permitan aplicar y expandir mis habilidades.
 
-- Modern Stack (Next.js + TailwindCSS)
-- Minimal Design
-- Easy To Browse
-- Easy To Customize your details With GUI
-- Blog Crud (Create, Read, Update, Delete blog with easy to use UI).
-- Dark Mode
+## 🚀 Mi Compromiso con la Tecnología y el Aprendizaje Continuo
 
+Mi experiencia en el campo de la programación no se limita a las habilidades técnicas que he adquirido. Estoy comprometido con la innovación, la eficiencia y la mejora continua. He demostrado un enfoque proactivo para resolver problemas complejos, adaptarme a nuevas tecnologías y colaborar efectivamente con equipos multidisciplinarios.
 
-### Sections
+A lo largo de mi carrera, he contribuido a proyectos significativos, incluyendo el desarrollo de soluciones de arquitectura digital y ciberseguridad escalables, y he tenido la oportunidad de formular arquitecturas para la evaluación automatizada de autorización de API. Mi experiencia como tutor y evaluador en cursos de algoritmos y programación en JavaScript me ha dado una valiosa perspectiva sobre la enseñanza y el aprendizaje, lo que me permite compartir mi conocimiento de manera efectiva.
 
-- Header
-- Work
-- Services
-- About
-- Contact
-- Markdown Blog
+Si tienes interés en colaborar en proyectos, compartir ideas o simplemente quieres conocer más sobre mí, no dudes en contactarme. Estoy emocionado por lo que el futuro de la tecnología tiene reservado y estoy ansioso por ver cómo mis habilidades y experiencia pueden contribuir a alcanzar grandes objetivos.
 
+---
 
-### How To Use
+**Contacto:**
 
-- Clone this repo
-- run `yarn`
-- `yarn dev`
-
-
-### How To Deploy - 
-
-- There are many ways to Deploy this repo.
-- here we are gonna use netlify
-- Login into netlify with github
-- after login select the forked repo or the repo you want to deploy
-- after selecting netlify will automatially deploy your website.
-
-Quickes way to deploy this repo - 
-
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chetanverma16/react-portfolio-template)
-
-
-### How To Contribute - 
-
-I would be very happy to review your PRs and all the awesome things that you can improve on this portfolio.
-
-
-### Tech Stack Used - 
-- Next.js
-- TailwindCSS
-
-
-### Thanks
-
-If you liked this portfolio template, don't forget to give it a ⭐.
-
-## Awesome Contributors
-[@Aryan3212](https://github.com/Aryan3212) [@achu-krishna](https://github.com/achu-krishna)
-
-## Supporting
-Many hours of hard work have gone into this project. Your support will be very appreciated!
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chetanverma)
-
-
-
-
-
-
+- Email: [montillasanchezjuancarlos@gmail.com](mailto:montillasanchezjuancarlos@gmail.com)
+- LinkedIn: [juancodev](https://www.linkedin.com/in/juancodev/)
+- GitHub: [juancodev](https://github.com/juancodev)
